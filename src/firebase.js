@@ -1,10 +1,3 @@
-//import { initializeApp } from "firebase/app";
-//import { getFirestore } from 'firebase/firestore/lite';
-//import { firestore as db } from './firebase-config'
-//import firebase from './firebase-config';
-//import firebase from 'firebase/compat/app';
-//import firebase from "/node_modules/firebase";
-//import 'firebase/compat/firestore';
 import firebase from "firebase";
 
 const firebaseConfig = {
